@@ -7,7 +7,6 @@ public class Main {
         task3();
         task4();
     }
-
     public static void task1() {
         System.out.println("Задача 1");
         int[] numbers1 = new int[3];
@@ -66,5 +65,4 @@ public class Main {
             }
         }
     }
-
 
