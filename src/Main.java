@@ -62,10 +62,9 @@ public class Main {
         numbers1[1] = 2;
         numbers1[2] = 3 + 1;
         for (int i = 0; i < numbers1.length; i++) {
-            if (numbers1[i] % 2 == 0) {
                 System.out.println((numbers1[i]));
             }
         }
     }
-}
+
 
